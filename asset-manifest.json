@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/retink-presale-app/static/css/main.4e091bd5.css",
+    "main.js": "/retink-presale-app/static/js/main.24b58dfa.js",
+    "index.html": "/retink-presale-app/index.html",
+    "main.4e091bd5.css.map": "/retink-presale-app/static/css/main.4e091bd5.css.map",
+    "main.24b58dfa.js.map": "/retink-presale-app/static/js/main.24b58dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e091bd5.css",
+    "static/js/main.24b58dfa.js"
+  ]
+}
